@@ -10,10 +10,10 @@ The user must acknowledge the use of the data set in publications resulting from
 The user may redistribute the data set, including transformations, so long as it is distributed under these same license conditions.
 The user may not use this information for any commercial or revenue-bearing purposes without first obtaining permission from a faculty member of the KIWI team at the University of Lorraine.
 
-If you have any further questions or comments, please email etude-kiwi@loria.fr
 
 Citation
 
 To acknowledge use of the dataset in publications, please cite the following paper:
 
-A. L'Huillier,  S. Castagnos and A. Boyer 2017. Are item attributes relevant for context elicitation? (February 2017)
+
+Are item attributes relevant for context elicitation? (February 2017)
