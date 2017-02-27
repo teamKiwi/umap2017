@@ -16,4 +16,4 @@ Citation
 
 To acknowledge use of the dataset in publications, please cite the following paper:
 
-A. L'Huillier,  S. Castagnos and A. Boyer 2017. Are item attributes relevant for context elicitation? (December 2017)
+A. L'Huillier,  S. Castagnos and A. Boyer 2017. Are item attributes relevant for context elicitation? (February 2017)
